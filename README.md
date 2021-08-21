@@ -1,2 +1,2 @@
-# ds-journey
-Data Science Journey
+# Data Science Journey
+
